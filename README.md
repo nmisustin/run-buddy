@@ -11,3 +11,5 @@ A website that offers fitness training services.
 
 ## Contributions
 Made with ❤️ by Nicolette Misustin
+
+### ©️2019 Run Buddy, Inc 
